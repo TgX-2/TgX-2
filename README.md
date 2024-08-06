@@ -1,12 +1,10 @@
 # <p align="center">**Xin chào!**</p>
 
-Tôi là **Lộc**.
+```
+Tôi là Lộc.
 
-
-Tôi không biết dùng **GitHub** và chỉ dùng nó để lưu trữ code.
-
-
----
+Tôi không biết dùng GitHub và chỉ dùng nó để lưu trữ code.
+```
 
  ✨ **Một số thông tin về tôi:** ✨
 
@@ -19,7 +17,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 
  ✨ **Một số thành tựu của tôi:** ✨
 
-```
+``` 
 - Lớp 5:
   + 🏅 : Giải khuyến khích Tin Học Trẻ cấp quốc gia.
 
@@ -51,7 +49,6 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 - [**Codeforces**](https://codeforces.com/profile/0f1738)
 
 - [**Oj.uz**](https://oj.uz/profile/TgX_2)
-
 
 
 ---

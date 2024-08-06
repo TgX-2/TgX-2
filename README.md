@@ -1,8 +1,11 @@
-## Chào!
+## Xin chào!
 
 Tôi là **Lộc**.
 
+
 Tôi không biết dùng **GitHub** và chỉ dùng nó để lưu trữ code.
+
+![](https://github.com/user-attachments/assets/5c3ee60b-f6d1-453e-ad2b-ded7056165ed)
 
 ---
 
@@ -41,8 +44,13 @@ Ngôn ngữ sử dụng: Tiếng Việt, C++
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TgX-2&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
-[VNOJ](https://oj.vnoi.info/user/%E1%85%A0%E1%85%A0%E1%85%A0)
-[Codeforces](https://codeforces.com/profile/0f1738)
+ ✨ **Một số Online Judge:** ✨
+
+- [**VNOJ**](https://oj.vnoi.info/user/%E1%85%A0%E1%85%A0%E1%85%A0)
+
+- [**Codeforces**](https://codeforces.com/profile/0f1738)
+
+- [**Oj.uz**](https://oj.uz/profile/TgX_2)
 
 <!--
 **TgX-2/TgX-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

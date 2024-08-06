@@ -11,10 +11,10 @@ Tôi không biết dùng **GitHub** và chỉ dùng nó để lưu trữ code.
  ✨ **Một số thông tin về tôi:** ✨
 
 ```
-Tên đầy đủ: Bùi Đình Lộc
+Tên đầy đủ : Bùi Đình Lộc
 Lớp : 11Tin
-Trường: THPT Chuyên Hùng Vương - Bình Dương
-Ngôn ngữ sử dụng: Tiếng Việt, C++
+Trường : THPT Chuyên Hùng Vương - Bình Dương
+Ngôn ngữ sử dụng : Tiếng Việt, C++
 ```
 
  ✨ **Một số thành tựu của tôi:** ✨

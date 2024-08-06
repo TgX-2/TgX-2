@@ -1,4 +1,4 @@
-## Xin chào!
+# <p align="center">**Xin chào!**</p>
 
 Tôi là **Lộc**.
 
@@ -55,7 +55,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 
 
 ---
-
+# <p align="center">**Cảm ơn!**</p>
 <img src="https://github.com/user-attachments/assets/70039660-5873-4105-a8ce-13329c705d14" width="718" height="418"/>
 
 <!--

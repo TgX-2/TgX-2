@@ -1,4 +1,48 @@
-## Hi there 👋
+## Chào!
+
+Tôi là **Lộc**.
+
+Tôi không biết dùng **GitHub** và chỉ dùng nó để lưu trữ code.
+
+---
+
+ ✨ **Một số thông tin về tôi:** ✨
+```
+Tên đầy đủ: Bùi Đình Lộc
+Lớp : 11Tin
+Trường: THPT Chuyên Hùng Vương - Bình Dương
+Ngôn ngữ sử dụng: Tiếng Việt, C++
+```
+
+ ✨ **Một số thành tựu của tôi:** ✨
+
+```
+- Lớp 5:
+  + 🏅 : Giải khuyến khích Tin Học Trẻ cấp quốc gia.
+
+- Lớp 9:
+  + 🥉 : Giải ba Học sinh giỏi cấp Tỉnh.
+  + 🥈 : Giải nhì Tin Học Trẻ cấp tỉnh.
+  + 🥉 : Giải ba Tin Học Trẻ cấp khu vực.
+
+- Lớp 10:
+  + 🏅 : Giải khuyến khích Học sinh giỏi cấp tỉnh.
+  + 🥈 : Giải nhì Tin Học Trẻ cấp tỉnh.
+  + 🥉 : Giải ba Tin Học Trẻ cấp khu vực.
+  + ✋🏻 : Rớt vòng 1.
+  + ✋🏻 : Poker rớt Olympic (DHBB - THPN - 30/4 - HSGSO).
+
+- Lớp 11:
+  + ....
+ ```
+
+ ✨ **Một ~số~ ngôn ngữ tôi sử dụng:** ✨
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TgX-2&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+
+[VNOJ](https://oj.vnoi.info/user/%E1%85%A0%E1%85%A0%E1%85%A0)
+[Codeforces](https://codeforces.com/profile/0f1738)
 
 <!--
 **TgX-2/TgX-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

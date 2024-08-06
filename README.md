@@ -5,11 +5,11 @@ Tôi là **Lộc**.
 
 Tôi không biết dùng **GitHub** và chỉ dùng nó để lưu trữ code.
 
-![](https://github.com/user-attachments/assets/5c3ee60b-f6d1-453e-ad2b-ded7056165ed)
 
 ---
 
  ✨ **Một số thông tin về tôi:** ✨
+
 ```
 Tên đầy đủ: Bùi Đình Lộc
 Lớp : 11Tin
@@ -51,6 +51,12 @@ Ngôn ngữ sử dụng: Tiếng Việt, C++
 - [**Codeforces**](https://codeforces.com/profile/0f1738)
 
 - [**Oj.uz**](https://oj.uz/profile/TgX_2)
+
+
+
+---
+
+<img src="https://github.com/user-attachments/assets/70039660-5873-4105-a8ce-13329c705d14" width="1024" height="596"/>
 
 <!--
 **TgX-2/TgX-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

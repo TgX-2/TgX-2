@@ -53,8 +53,6 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 
 ---
 # <p align="center">**Cảm ơn!**</p>
-<img src="https://github.com/user-attachments/assets/70039660-5873-4105-a8ce-13329c705d14" width="718" height="418"/>
-
 <!--
 **TgX-2/TgX-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

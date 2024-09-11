@@ -39,7 +39,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 
  ✨ **Một ~số~ ngôn ngữ tôi sử dụng:** ✨
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TgX-2&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2-TgX&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
  ✨ **Một số Online Judge:** ✨

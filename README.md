@@ -34,7 +34,8 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
   + ✋🏻 : Poker rớt Olympic (DHBB - THPN - 30/4 - HSGSO).
 
 - Lớp 11:
-  + ....
+  + ✋🏻 : Rớt vòng 2.
+
  ```
 
  ✨ **Một ~số~ ngôn ngữ tôi sử dụng:** ✨

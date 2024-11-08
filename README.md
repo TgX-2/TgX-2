@@ -35,6 +35,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 
 - Lớp 11:
   + ✋🏻 : Rớt vòng 2.
+  + 🏅 : Giải khuyến khích Học sinh giỏi cấp tỉnh.
 
  ```
 

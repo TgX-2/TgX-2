@@ -15,6 +15,18 @@ Trường : THPT Chuyên Hùng Vương - Bình Dương
 Ngôn ngữ sử dụng : Tiếng Việt, C++
 ```
 
+ ✨ **Một số Online Judge:** ✨
+
+- [**VNOJ**](https://oj.vnoi.info/user/%E1%85%A0%E1%85%A0%E1%85%A0)
+
+- [**Codeforces**](https://codeforces.com/profile/TgX.2)
+
+- [**oj.uz**](https://oj.uz/profile/TgX_2)
+
+- [**LibreOJ**](https://loj.ac/u/motnuhoncuoi)
+
+- [**MarisaOJ**](https://marisaoj.com/user/TgX.21/submissions)
+
  ✨ **Một số thành tựu của tôi:** ✨
 
 ``` 
@@ -22,7 +34,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
   + 🏅 : Giải khuyến khích Tin Học Trẻ cấp quốc gia.
 
 - Lớp 9:
-  + 🥉 : Giải ba Học sinh giỏi cấp Tỉnh.
+  + 🥉 : Giải ba Học sinh giỏi cấp tỉnh.
   + 🥈 : Giải nhì Tin Học Trẻ cấp tỉnh.
   + 🥉 : Giải ba Tin Học Trẻ cấp khu vực.
 
@@ -38,16 +50,6 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
   + 🏅 : Giải khuyến khích Học sinh giỏi cấp tỉnh.
 
  ```
-
-
- ✨ **Một số Online Judge:** ✨
-
-- [**VNOJ**](https://oj.vnoi.info/user/%E1%85%A0%E1%85%A0%E1%85%A0)
-
-- [**Codeforces**](https://codeforces.com/profile/0f1738)
-
-- [**Oj.uz**](https://oj.uz/profile/TgX_2)
-
 
 ---
 # <p align="center">**Cảm ơn!**</p>

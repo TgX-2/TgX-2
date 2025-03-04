@@ -23,8 +23,6 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 
 - [**oj.uz**](https://oj.uz/profile/TgX_2)
 
-- [**LibreOJ**](https://loj.ac/u/motnuhoncuoi)
-
 - [**MarisaOJ**](https://marisaoj.com/user/TgX.21/submissions)
 
  ✨ **Một số thành tựu của tôi:** ✨

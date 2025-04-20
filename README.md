@@ -2,7 +2,7 @@
 
 ```
 Tôi là Lộc.
-Tôi không biết dùng GitHub và chỉ dùng nó để lưu trữ code.
+Tôi không biết dùng GitHub và chỉ dùng nó để lưu trữ code và ảnh.
 ```
 
  📌 **Một số thông tin về tôi** 📌
@@ -52,7 +52,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 - Lớp 11:
   + ✋🏻 : Rớt vòng 2.
   + 🏅 : Giải khuyến khích Học sinh giỏi cấp tỉnh.
-  + ❓ : Huy chương ____ Olympic 30/4
+  + 🚬 : Đã được đi chơi ở Olympic 30/4
 
  ```
 

@@ -25,7 +25,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 
 
  🛠️ **Một số dự án mà tôi làm** 🎹
-- Trang web giới thiệu bản thân       - [information](https://tgx-2.github.io/information/).
+- Trang web                           - [information](https://tgx-2.github.io/).
 - Lưu trữ code Học sinh giỏi Quốc gia - [code](https://github.com/TgX-2/Solutions-VOI).
 - Lưu trữ code Olympic 30 tháng 4     - [code](https://github.com/TgX-2/Solutions-Olympic-30-4).
 - Template cho riêng mình - [template](https://github.com/TgX-2/Template).

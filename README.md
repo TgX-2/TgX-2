@@ -51,8 +51,8 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 - Lớp 11:
   + ✋🏻 : Rớt vòng 2.
   + 🏅 : Giải khuyến khích Học sinh giỏi cấp tỉnh.
-  + 🚬 : Đã được đi chơi ở Olympic 30/4
-
+  + 🚬 : Đã được đi chơi ở Olympic 30/4.
+  + 🥈 : Huy chương Bạc môn tin học Olympic Khoa học tự nhiên.
  ```
 
 📫 **Liên hệ mình tại** 📫

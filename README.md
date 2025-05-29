@@ -53,6 +53,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
   + 🏅 : Giải khuyến khích Học sinh giỏi cấp tỉnh.
   + 🚬 : Đã được đi chơi ở Olympic 30/4.
   + 🥈 : Huy chương Bạc môn tin học Olympic Khoa học tự nhiên.
+  + 🥉 : Giải ba Tin Học Trẻ cấp tỉnh.
  ```
 
 📫 **Liên hệ mình tại** 📫

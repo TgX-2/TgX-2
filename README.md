@@ -59,7 +59,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 📫 **Liên hệ mình tại** 📫
 - GitHub: [TgX.2](https://github.com/TgX.2)
 - Email: buidinhloc@gmail.com
-- Facebook: [Dinh Loc](facebook.com/DangThi.GHKII)
+- Facebook: [Dinh Loc](https://facebook.com/DangThi.GHKII)
 
 
 ---

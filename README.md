@@ -10,7 +10,7 @@ Tôi không biết dùng GitHub và chỉ dùng nó để lưu trữ code và �
 ```
 Tên đầy đủ : Bùi Đình Lộc
 Nickname: motnuhoncuoi, TgX.2
-Lớp : 11Tin - K28
+Lớp : 12Tin - K28
 Trường : THPT Chuyên Hùng Vương - Bình Dương
 Ngôn ngữ sử dụng : Tiếng Việt, C++
 ```

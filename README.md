@@ -30,7 +30,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 - Template cho riêng mình - [template](https://github.com/TgX-2/Template).
 
 
- ✨ **Một số thành tựu của tôi** ✨
+ ✨ **Một số thành tựu, sự nghiệp Tin học của tôi** ✨
 
 ``` 
 - Lớp 5:
@@ -55,6 +55,9 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
   + 🥈 : Huy chương Bạc môn tin học Olympic Khoa học tự nhiên.
   + 🥉 : Giải ba Tin Học Trẻ cấp tỉnh.
   + 🥈 : Giải nhì Tin Học Trẻ cấp khu vực.
+
+- Lớp 12:
+  + ⌨️ : Treo bàn phím giải nghệ, hướng tới thủ khoa Toán - Lý - Tin THPTQG toàn quốc.
  ```
 
 📫 **Liên hệ mình tại** 📫

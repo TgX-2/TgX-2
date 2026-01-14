@@ -2,7 +2,7 @@
 
 ```
 Tôi là Lộc.
-Tôi không biết dùng GitHub và chỉ dùng nó để lưu trữ code và ảnh.
+Tôi dùng Github để lưu một số thứ linh tinh.
 ```
 
  📌 **Một số thông tin về tôi** 📌

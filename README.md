@@ -15,21 +15,6 @@ Trường : THPT Chuyên Hùng Vương - Bình Dương
 Ngôn ngữ sử dụng : Tiếng Việt, C++
 ```
 
- 📜 **Một số Online Judge mà tôi sử dụng** 📜
-
-- [**VNOJ**](https://oj.vnoi.info/user/BuiDinhLoc)
-- [**LQDOJ**](https://lqdoj.edu.vn/user/motnuhoncuoi)
-- [**Codeforces**](https://codeforces.com/profile/TgX.2)
-- [**oj.uz**](https://oj.uz/profile/TgX_2)
-- [**MarisaOJ**](https://marisaoj.com/user/TgX.21/submissions)
-
-
- 🛠️ **Một số thứ mà tôi làm** 🎹
-- Lưu trữ code Học sinh giỏi Quốc gia - [code](https://github.com/TgX-2/Solutions-VOI).
-- Lưu trữ code Olympic 30 tháng 4     - [code](https://github.com/TgX-2/Solutions-Olympic-30-4).
-- Template cho riêng mình - [template](https://github.com/TgX-2/Template).
-
-
  ✨ **Một số thành tựu, sự nghiệp Tin học của tôi** ✨
 
 ``` 

@@ -17,7 +17,7 @@ Ngôn ngữ sử dụng : Tiếng Việt, C++
 
 
 📫 **Liên hệ mình tại** 📫
-- GitHub: [TgX.2](https://github.com/TgX.2)
+- GitHub: [TgX.2](https://github.com/TgX-2)
 
 
 ---

@@ -8,7 +8,7 @@ Tôi dùng Github để lưu một số thứ linh tinh.
  📌 **Một số thông tin về tôi** 📌
 
 ```
-Tên đầy đủ : Trypanophibia ga Xenogenes
+Tên đầy đủ : Trypanophobia ga Xenogenes
 Nickname: motnuhoncuoi, TgX.2
 Lớp : 12Tin - K28
 Trường : THPT Chuyên Hùng Vương - Thành phố Hồ Chí Minh
